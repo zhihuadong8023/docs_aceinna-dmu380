@@ -51,19 +51,19 @@ How to Use
    :scale: 18%
 
  .. image:: media/deviceList.jpeg
-   :align: center
-   :scale: 18%
-
- .. image:: media/logs.jpg
    :align: right
    :scale: 18%
 
- .. image:: media/offlineMap.jpg
+ .. image:: media/logs.jpg
    :align: left
    :scale: 18%
 
+ .. image:: media/offlineMap.jpg
+   :align: right
+   :scale: 18%
+
  .. image:: media/livemap.jpg
-   :align: center
+   :align: left
    :scale: 18%
 
  .. image:: media/networkSetting.jpeg
