@@ -47,27 +47,21 @@ How to Use
 
 3. APP screenshots
  .. image:: media/info.jpg
-   :align: left
    :scale: 18%
 
  .. image:: media/deviceList.jpeg
-   :align: right
    :scale: 18%
 
  .. image:: media/logs.jpg
-   :align: left
    :scale: 18%
 
  .. image:: media/offlineMap.jpg
-   :align: right
    :scale: 18%
 
  .. image:: media/livemap.jpg
-   :align: left
    :scale: 18%
 
  .. image:: media/networkSetting.jpeg
-   :align: right
    :scale: 18%
 
 
