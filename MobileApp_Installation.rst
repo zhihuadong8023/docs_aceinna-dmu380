@@ -47,6 +47,10 @@ How to Use
 
 3. APP screenshots
  .. image:: media/info.jpg
+   :height: 100
+   :width: 200
+   :scale: 50
+ .. image:: media/info.jpg
    :scale: 18%
 
  .. image:: media/deviceList.jpeg
@@ -54,6 +58,7 @@ How to Use
 
  .. image:: media/logs.jpg
    :scale: 18%
+
 
  .. image:: media/offlineMap.jpg
    :scale: 18%

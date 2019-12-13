@@ -1,5 +1,10 @@
 OpenRTK Developer Manual
 ========================
+
+.. note::
+
+    OpenRTKbox.png to be provided.
+
 .. image:: media/OpenIMU.png
    :align: center
    :scale: 50%
@@ -31,17 +36,19 @@ custom data structures and packets very simple.
     :caption: Quick Start
     :maxdepth: 1
     :hidden:
-
+    :titlesonly:
+    
     install
     setup-OpenRTK
-    MobileApp_Installation
+    Network
+    useOpenRTK
 
 .. raw:: latex
 
    \part{RTK/IMU Modules}
 
 .. toctree::
-    :caption: RTK/IMU Modules
+    :caption: OpenRTK330 Modules
     :maxdepth: 1
     :hidden:
 
@@ -57,7 +64,6 @@ custom data structures and packets very simple.
     :hidden:
 
     EVB-OpenRTK330LI
-    EVB-OpenRTK330
 
 ..    EvaluationKits
 
